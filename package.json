@@ -1,0 +1,14 @@
+{
+  "name": "com.npm.package.helloworld",
+  "displayName": "Test Package",
+  "description": "Description.......",
+  "keywords": [
+    "npm",
+    "test"
+  ],
+  "unity": "2020.3.5",
+  "version": "1.0.0",
+  "publishConfig": {
+    "registry": "http://localhost:4873"
+  }
+}
